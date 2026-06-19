@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sony Kumari Chaudhary</h1>
-<h3 align="center">Frontend Developer from Nepal 🇳🇵 | React JS Enthusiast | JavaScript Developer</h3>
+<h3 align="center">Full Stack Developer from Nepal 🇳🇵 | Ai Enthusiast | JavaScript Developer</h3>
 
 <p align="center">
   I build responsive and user-friendly web applications using React JS and JavaScript.
