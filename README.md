@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **Advanced React JS**, **Python**, and **Data Structures & Algorithms**
-- 💻 Passionate about **Frontend Development**
+- 💻 Passionate about **Full stack Development**
 - 🐍 Comfortable with **Python programming**
 - 🧠 Practicing **Data Structures & Algorithms (DSA)**
 - 🎯 Focused on building clean and interactive UI
