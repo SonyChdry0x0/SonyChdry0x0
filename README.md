@@ -145,9 +145,9 @@ Application for managing student information and records.
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SonyChdry0x0&theme=tokyo-night&hide_border=true" />
-</p>
+</p> -->
 ---
 
 ## 🌐 Connect With Me
