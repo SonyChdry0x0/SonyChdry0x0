@@ -146,17 +146,12 @@ Application for managing student information and records.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonyChdry0x0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=SonyChdry0x0&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SonyChdry0x0&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonyChdry0x0&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
